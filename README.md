@@ -220,7 +220,7 @@ Packaged the full project (frontend + backend) as a deployable ZIP with document
 <section id="contact">
 <div class="card">
 <h2>Contact</h2>
-<p>Email: yourmail@gmail.com</p>
+<p>Email: nithyasrisukumar0876@gmail.com</p>
 <p>GitHub: github.com/nithyasri0876</p>
 
 <div class="icons">
